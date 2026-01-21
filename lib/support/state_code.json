@@ -1,0 +1,247 @@
+{
+    "AL": {
+      "code": 1,
+      "name": "Alabama"
+    },
+    "AK": {
+      "code": 2,
+      "name": "Alaska"
+    },
+    "AS": {
+      "code": 3,
+      "name": "American Samoa"
+    },
+    "AZ": {
+      "code": 4,
+      "name": "Arizona"
+    },
+    "AR": {
+      "code": 5,
+      "name": "Arkansas"
+    },
+    "AE": {
+      "code": 10,
+      "name": "Armed Forces Middle East"
+    },
+    "AA": {
+      "code": 7,
+      "name": "Armed Forces Americas"
+    },
+    "AP": {
+      "code": 11,
+      "name": "Armed Forces Pacific"
+    },
+    "CA": {
+      "code": 12,
+      "name": "California"
+    },
+    "CO": {
+      "code": 13,
+      "name": "Colorado"
+    },
+    "CT": {
+      "code": 14,
+      "name": "Connecticut"
+    },
+    "DE": {
+      "code": 15,
+      "name": "Delaware"
+    },
+    "DC": {
+      "code": 16,
+      "name": "District of Columbia"
+    },
+    "FM": {
+      "code": 17,
+      "name": "Federated States Of Micronesia"
+    },
+    "FL": {
+      "code": 18,
+      "name": "Florida"
+    },
+    "GA": {
+      "code": 19,
+      "name": "Georgia"
+    },
+    "GU": {
+      "code": 20,
+      "name": "Guam"
+    },
+    "HI": {
+      "code": 21,
+      "name": "Hawaii"
+    },
+    "ID": {
+      "code": 22,
+      "name": "Idaho"
+    },
+    "IL": {
+      "code": 23,
+      "name": "Illinois"
+    },
+    "IN": {
+      "code": 24,
+      "name": "Indiana"
+    },
+    "IA": {
+      "code": 25,
+      "name": "Iowa"
+    },
+    "KS": {
+      "code": 26,
+      "name": "Kansas"
+    },
+    "KY": {
+      "code": 27,
+      "name": "Kentucky"
+    },
+    "LA": {
+      "code": 28,
+      "name": "Louisiana"
+    },
+    "ME": {
+      "code": 29,
+      "name": "Maine"
+    },
+    "MH": {
+      "code": 30,
+      "name": "Marshall Islands"
+    },
+    "MD": {
+      "code": 31,
+      "name": "Maryland"
+    },
+    "MA": {
+      "code": 32,
+      "name": "Massachusetts"
+    },
+    "MI": {
+      "code": 33,
+      "name": "Michigan"
+    },
+    "MN": {
+      "code": 34,
+      "name": "Minnesota"
+    },
+    "MS": {
+      "code": 35,
+      "name": "Mississippi"
+    },
+    "MO": {
+      "code": 36,
+      "name": "Missouri"
+    },
+    "MT": {
+      "code": 37,
+      "name": "Montana"
+    },
+    "NE": {
+      "code": 38,
+      "name": "Nebraska"
+    },
+    "NV": {
+      "code": 39,
+      "name": "Nevada"
+    },
+    "NH": {
+      "code": 40,
+      "name": "New Hampshire"
+    },
+    "NJ": {
+      "code": 41,
+      "name": "New Jersey"
+    },
+    "NM": {
+      "code": 42,
+      "name": "New Mexico"
+    },
+    "NY": {
+      "code": 43,
+      "name": "New York"
+    },
+    "NC": {
+      "code": 44,
+      "name": "North Carolina"
+    },
+    "ND": {
+      "code": 45,
+      "name": "North Dakota"
+    },
+    "MP": {
+      "code": 46,
+      "name": "Northern Mariana Islands"
+    },
+    "OH": {
+      "code": 47,
+      "name": "Ohio"
+    },
+    "OK": {
+      "code": 48,
+      "name": "Oklahoma"
+    },
+    "OR": {
+      "code": 49,
+      "name": "Oregon"
+    },
+    "PW": {
+      "code": 50,
+      "name": "Palau"
+    },
+    "PA": {
+      "code": 51,
+      "name": "Pennsylvania"
+    },
+    "RI": {
+      "code": 53,
+      "name": "Rhode Island"
+    },
+    "SC": {
+      "code": 54,
+      "name": "South Carolina"
+    },
+    "SD": {
+      "code": 55,
+      "name": "South Dakota"
+    },
+    "TN": {
+      "code": 56,
+      "name": "Tennessee"
+    },
+    "TX": {
+      "code": 57,
+      "name": "Texas"
+    },
+    "UT": {
+      "code": 58,
+      "name": "Utah"
+    },
+    "VT": {
+      "code": 59,
+      "name": "Vermont"
+    },
+    "VI": {
+      "code": 60,
+      "name": "Virgin Islands"
+    },
+    "VA": {
+      "code": 61,
+      "name": "Virginia"
+    },
+    "WA": {
+      "code": 62,
+      "name": "Washington"
+    },
+    "WV": {
+      "code": 63,
+      "name": "West Virginia"
+    },
+    "WI": {
+      "code": 64,
+      "name": "Wisconsin"
+    },
+    "WY": {
+      "code": 65,
+      "name": "Wyoming"
+    }
+}
+  

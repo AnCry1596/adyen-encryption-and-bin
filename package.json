@@ -1,0 +1,26 @@
+{
+  "name": "api-encrypted",
+  "version": "2.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Annnekkk",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "adyen-4.4.1": "gitlab:Annnekkk/adyen-4.4.1",
+    "adyen-5.11.0": "^1.0.0",
+    "axios": "^1.10.0",
+    "express": "^4.18.2",
+    "fake-generator": "^1.0.0",
+    "generate-password": "^1.7.1",
+    "get-timezone-offset": "^1.0.4",
+    "node-adyen-encrypt": "^2.3.1",
+    "node-jose": "^2.2.0",
+    "request-ip": "^3.3.0"
+  }
+}
