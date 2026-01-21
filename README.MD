@@ -2,6 +2,8 @@
 
 Encryption and utility API service.
 
+> **Disclaimer:** This project is for educational and testing purposes only. Do not use for any illegal activities.
+
 ## Installation
 
 ```bash
@@ -15,7 +17,7 @@ Server runs on port 5000 by default.
 
 ### GET /randomdatav2
 
-Generate random user data.
+Generate random user data (flat format).
 
 **Response:**
 ```json
@@ -37,6 +39,57 @@ Generate random user data.
     "city": "New York",
     "state": "NY",
     "postalCode": "10001"
+  }
+}
+```
+
+### GET /randomdatav2/new
+
+Generate random user data (structured format with metadata).
+
+**Response:**
+```json
+{
+  "success": true,
+  "personal": {
+    "first": "John",
+    "last": "Doe",
+    "fullname": "John Doe",
+    "email": "johndoe@example.com",
+    "phone": "5551234567",
+    "phoneFormatted": {
+      "parentheses": "(555) 123-4567",
+      "dashes": "555-123-4567",
+      "dots": "555.123.4567",
+      "international": "+1 555 123 4567"
+    }
+  },
+  "security": {
+    "password": "xK9#mL2$pQ"
+  },
+  "browser": {
+    "userAgent": "Mozilla/5.0...",
+    "language": "en-US",
+    "colorDepth": 24,
+    "screen": {
+      "width": 1920,
+      "height": 1080,
+      "type": "desktop"
+    }
+  },
+  "location": {
+    "timeZone": "America/New_York",
+    "offset": -300,
+    "address": {
+      "address1": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10001"
+    }
+  },
+  "metadata": {
+    "generatedAt": "2024-01-01T00:00:00.000Z",
+    "processingTime": "15ms"
   }
 }
 ```
@@ -142,3 +195,7 @@ Adyen v4.5.0 encryption.
   "cvv": "123"
 }
 ```
+
+## License
+
+For educational purposes only.
