@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "Annnekkk",
-  "license": "ISC",
+  "license": "WTFPL",
   "dependencies": {
     "@faker-js/faker": "^8.4.1",
     "adyen-4.4.1": "gitlab:Annnekkk/adyen-4.4.1",

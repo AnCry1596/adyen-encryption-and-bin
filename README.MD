@@ -198,4 +198,6 @@ Adyen v4.5.0 encryption.
 
 ## License
 
+[WTFPL](http://www.wtfpl.net/) - Do What The Fuck You Want To Public License
+
 For educational purposes only.
