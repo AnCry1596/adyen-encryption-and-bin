@@ -4,6 +4,23 @@ Encryption and utility API service.
 
 > **Disclaimer:** This project is for educational and testing purposes only. Do not use for any illegal activities.
 
+## ⚠️ Disclaimers
+
+**Educational Purpose Only**
+This project is intended solely for educational, research, and testing purposes. It is not intended to be used in production environments or for any commercial activity.
+
+**No Affiliation with Adyen**
+This project is **not affiliated with, endorsed by, or associated with Adyen N.V.** in any way. "Adyen" is a registered trademark of Adyen N.V. Any reference to Adyen or its services is purely for descriptive and educational purposes.
+
+**No Warranty**
+This software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability arising from the use of this software.
+
+**Legal Compliance**
+Users are solely responsible for ensuring that their use of this software complies with all applicable local, national, and international laws and regulations. The author(s) of this project accept no responsibility or liability for any misuse, illegal use, or any damages resulting from the use of this software.
+
+**No Cardholder Data**
+This tool must **never** be used to process, store, or transmit real cardholder data. Using this software against real payment systems without explicit authorization is illegal and unethical.
+
 ## Installation
 
 ```bash
