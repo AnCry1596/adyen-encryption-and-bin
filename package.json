@@ -1,7 +1,7 @@
 {
   "name": "api-encrypted",
-  "version": "2.0.0",
-  "description": "",
+  "version": "2.0.1",
+  "description": "A web server to create sample data via public API - random user data, real addresses, BIN lookup, and Adyen encryption for testing purposes.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

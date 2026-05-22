@@ -24,8 +24,13 @@ This tool must **never** be used to process, store, or transmit real cardholder 
 ## Installation
 
 ```bash
+# Node.js (npm)
 npm install
 npm start
+
+# Bun
+bun install
+bun run start
 ```
 
 Server runs on port 5000 by default.

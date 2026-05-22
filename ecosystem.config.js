@@ -1,7 +1,7 @@
 module.exports = {
     apps: [
       {
-        name: "annnekkkencrypt",
+        name: "api-encrypted",
         script: "./server.js",
         instances: "max",
         exec_mode: "cluster",
